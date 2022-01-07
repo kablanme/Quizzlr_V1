@@ -27,7 +27,7 @@ const HomeContainer: React.FC<ContainerProps> = () => {
             </IonItem>
             
             </IonContent> 
-            <IonContent className="button">
+            <IonContent className="button1">
             <IonButton color="primary" href="/play" fill="clear" >
             <IonIcon slot="end" size='large' icon={arrowForward} ></IonIcon>
             </IonButton>       

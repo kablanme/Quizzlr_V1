@@ -64,8 +64,11 @@ ion-img#img-home::part(image) {
     margin: 0 auto 0 auto;
 }
 
-.button{
-    text-align: right;
+.button1{
+   position:fixed;
+   margin-top:80%;
+   margin-left: 0px
+    
 }
 
 ion-icon{
