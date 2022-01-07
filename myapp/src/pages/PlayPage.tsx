@@ -5,14 +5,14 @@ import './PlayPage.css';
 
 const play: React.FC = () => {
     return (
-        <IonPage>
-            <IonHeader>
+        <IonPage >
+            <IonHeader >
             </IonHeader>
-            <IonContent fullscreen>
+            <IonContent fullscreen color="secondary">
                 <Start />
-            </IonContent>
+            
             <IonFooter>
-            <IonToolbar>
+            <IonToolbar >
                     <IonButtons slot="start">
                         <IonMenuButton />
                     </IonButtons>
@@ -22,7 +22,7 @@ const play: React.FC = () => {
                     
                 </IonToolbar>
             </IonFooter>
-           
+           </IonContent>
         </IonPage >
     );
 };

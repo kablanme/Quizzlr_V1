@@ -15,9 +15,7 @@ ion-button{
 
 
 
-ion-content{
-    --background:#ffffff !important;
-}
+
 ion-img#img-hs::part(image) {
     width: 175px;
     margin-left: 55%;

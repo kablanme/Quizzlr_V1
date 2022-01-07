@@ -37,7 +37,7 @@ const Start: React.FC<ContainerProps> = () => {
                         <div className="Wolke2">
                             <img src={wolke2} alt="Wolke2"/>
                      </div> 
-                        <IonContent className="button">
+                        <IonContent className="button" color="secondary">
       <IonButton  href="/choose" shape="round" expand="block" size="large" fill="outline">Start</IonButton>
     </IonContent>
 
