@@ -29,7 +29,7 @@ const Start: React.FC<ContainerProps> = () => {
                             <h2>
                             Welcome to
                             <br></br>
-                            Design HS PF,
+                            HS Design PF,
                             <br></br>
                             Mustermann
                             </h2>

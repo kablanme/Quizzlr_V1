@@ -14,11 +14,11 @@
     
 }
  
-.container strong {
-    font-size: 30px;
-    line-height: 26px;
+.container h2 {
+    font-size: 28px;
     color: #212f55;
-    font-family: Avenir !important;
+    font-family: Avenir,sans-serif !important;
+    padding-left:5%
     
 }
  
@@ -53,7 +53,9 @@ ion-item{
     --border-color: #212f55 !important;
     --background:#f1c111 !important;
     --border-width: 4px !important;
-    
+    font-size:30px;
+    padding-left:5%;
+    padding-right: 5%;
 
 }
 
@@ -64,7 +66,6 @@ ion-img#img-home::part(image) {
 
 .button{
     text-align: right;
-    top: 150px;
 }
 
 ion-icon{

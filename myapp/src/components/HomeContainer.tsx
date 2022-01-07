@@ -29,7 +29,7 @@ const HomeContainer: React.FC<ContainerProps> = () => {
             </IonContent> 
             <IonContent className="button">
             <IonButton color="primary" href="/play" fill="clear" >
-            <IonIcon slot="end" icon={arrowForward} ></IonIcon>
+            <IonIcon slot="end" size='large' icon={arrowForward} ></IonIcon>
             </IonButton>       
             </IonContent>
                     </IonCol>

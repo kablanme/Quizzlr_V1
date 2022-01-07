@@ -32,10 +32,10 @@ ion-img#img-hs::part(image) {
 
 @keyframes move{
     from{
-        transform:translateX(-250%)
+        transform:translateX(100%)
     }
     to{
-        transform: translateX(100%);
+        transform: translateX(-350%);
     }
 }
 
@@ -45,7 +45,7 @@ ion-img#img-hs::part(image) {
     animation-iteration-count: infinite;
     animation-duration: 15s;
     animation-direction: normal;
-    animation-timing-function: ease;
+    animation-timing-function:linear;
 }
 
 @keyframes leave{
@@ -62,6 +62,7 @@ ion-img#img-hs::part(image) {
     width: 200px !important;
     animation-name: leave ;
     animation-iteration-count: infinite;
-    animation-duration: 15s;
+    animation-duration: 20s;
     animation-direction:normal;
+    animation-timing-function:linear;
 }
