@@ -67,11 +67,7 @@ const ChooseCharacter: React.FC<ContainerProps> = () => {
     </IonSlides>
     </IonToolbar>
     
-          <IonContent className="button2" color="secondary">
-            <IonButton color="primary" href="questions" fill="clear" >
-            <IonIcon slot="end" icon={arrowForward} ></IonIcon>
-            </IonButton>       
-            </IonContent>
+         
                   </IonCol>
           
               </IonRow>
