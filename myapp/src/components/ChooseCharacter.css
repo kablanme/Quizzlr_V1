@@ -1,0 +1,104 @@
+
+.container {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 30%;
+    transform: translateY(-50%);
+}
+ 
+.container strong {
+    font-size: 30px;
+    line-height: 26px;
+    color: #212f55;
+    font-family: Avenir !important;
+}
+ 
+.container p {
+    font-size: 30px;
+    line-height: 22px;
+    color: #8c8c8c;
+    margin: 0;
+    font-family: Avenir !important;
+}
+ 
+.container a {
+    text-decoration: none;
+    color:black;
+}
+
+ion-img#img-home::part(image) {
+    width: 300px;
+    margin: 0 auto 0 auto;
+}
+
+ion-slides {
+    height: 100%;
+  }
+
+.Choose{
+    margin-top: 120%;
+}
+
+.User1{
+    width: 200px;
+}
+
+.User2{
+    width: 200px;
+}
+
+.User3{
+    width: 200px;
+}
+
+.User4{
+    width: 200px;
+}
+
+.User5{
+    width: 200px;
+}
+
+.User6{
+    width: 200px;
+}
+
+
+ion-item{
+
+    --border-radius:20px;
+    --border-color: #212f55 !important;
+    --background:#f1c111 !important;
+    --border-width: 4px !important;
+    
+
+}
+
+.button{
+    text-align: right;
+    top: 150px;
+    
+}
+
+ion-icon{
+    color: #212f55 !important;
+}
+
+.Choose{
+    margin-top: 5%;
+}
+
+.HSLogo{
+    margin-top: 50%;
+    margin-left:70% ;
+    width: 80px;
+}
+
+.button2{
+    text-align: right;
+    top: 80px;
+    
+}
+

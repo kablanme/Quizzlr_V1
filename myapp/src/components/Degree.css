@@ -1,0 +1,9 @@
+ion-item{
+
+    --border-radius:20px;
+    --border-color: #212f55 !important;
+    --background:#f1c111 !important;
+    --border-width: 4px !important;
+
+
+}

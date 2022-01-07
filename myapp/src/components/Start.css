@@ -1,0 +1,41 @@
+.container h2 {
+    font-size: 40px;
+    line-height: 42px;
+    color: #212f55;
+    font-family: Avenir !important;
+    text-align: left;
+    margin: 10px;
+}
+ion-button{
+    --border-color: #212f55;
+    --color:#212f55;
+    margin-top: 0%;
+}
+
+
+
+
+ion-content{
+    --background:#ffffff !important;
+}
+ion-img#img-hs::part(image) {
+    width: 175px;
+    margin-left: 55%;
+    margin-top:0%;
+}
+
+.Logo{
+    margin-top: 30%;
+    margin-left:70% ;
+    width: 80px;
+}
+
+.Wolke1{
+    margin-left:70% ;  
+}
+
+
+.Wolke2{
+    margin-top: 0%;
+    width: 200px !important;
+}

@@ -1,0 +1,4 @@
+ion-img#sound-img::part(image) {
+    width: 10px;
+    height:auto;
+}

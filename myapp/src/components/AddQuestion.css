@@ -1,0 +1,33 @@
+.Question{
+    height: 300px !important;
+}
+
+.Question1{
+    height: 150px !important;
+}
+
+.Answer1{
+    top: -15%;
+}
+
+.Answer2{
+    top: -100%;
+}
+
+.Answer3{
+    top: -185%;
+}
+
+.Answer4{
+    top: -270%;
+}
+
+.questionbutton{
+    top:-355%;
+    left: 40%;
+}
+
+.questionbuttonback{
+    top:-451%;
+    left: 10%;
+}

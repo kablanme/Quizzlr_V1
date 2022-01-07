@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@ionic-native/splash-screen": "^5.36.0",
+    "@ionic-native/video-player": "^5.36.0",
+    "@types/styled-components": "^5.1.18",
+    "react-hook-form": "^7.22.1",
+    "styled-components": "^5.3.3"
+  }
+}

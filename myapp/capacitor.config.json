@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "shoppinglist-app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
