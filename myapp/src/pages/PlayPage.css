@@ -2,4 +2,8 @@ ion-img#sound-img::part(image) {
     width: 10px;
     height:auto;
 }
+ion-footer{
+    bottom:0%;
+    position: fixed;
+}
 
