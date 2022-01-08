@@ -16,7 +16,7 @@ const character: React.FC = () => {
                 <IonButtons slot="start">
                     <IonMenuButton />
                 </IonButtons>
-                <IonButton  fill='clear' size="large" >
+                <IonButton fill='clear' size="large" >
                     <IonIcon icon={volumeMediumOutline}></IonIcon>
                 </IonButton>
                 <IonButton slot="end" fill='clear' size="large" >
